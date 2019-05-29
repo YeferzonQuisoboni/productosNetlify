@@ -1,23 +1,23 @@
 {
   "productos": [
     {
-      "nombre": "azucar",
-      "precio": 2000,
+      "nombre": "Papaya",
+      "precio": "2000",
       "id": 2
     },
     {
-      "nombre": "chinin",
+      "nombre": "Guayaba",
       "precio": "800",
       "id": 3
     },
     {
-      "nombre": "chinin",
-      "precio": "8999",
+      "nombre": "Limones Criollo",
+      "precio": "200",
       "id": 4
     },
     {
-      "nombre": "CHINN",
-      "precio": "8000",
+      "nombre": "Mango Tomy",
+      "precio": "1500",
       "id": 5
     },
     {
@@ -26,22 +26,22 @@
       "id": 6
     },
     {
-      "nombre": "panela del cauca",
+      "nombre": "Fresa Dde Coconuco",
       "precio": 2000,
       "id": 7
     },
     {
-      "nombre": "tomates",
+      "nombre": "Tomates",
       "precio": "1000",
       "id": 8
     },
     {
-      "nombre": "Mnzana",
+      "nombre": "Manzana",
       "precio": "1000",
       "id": 9
     },
     {
-      "nombre": "Cocacola",
+      "nombre": "Pera Nacional",
       "precio": "1200",
       "id": 10
     }
